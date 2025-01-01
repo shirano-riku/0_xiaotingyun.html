@@ -1,0 +1,9 @@
+body {
+    background: url(images/01.png) no-repeat center;
+    height: 20vh;
+}
+h1 {
+    color: #ffffff;
+    text-align: center;
+    margin: 400px 0 200px 0;
+}
